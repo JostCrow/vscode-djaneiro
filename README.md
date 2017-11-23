@@ -162,25 +162,8 @@ If you'd like to contribute to this collection of snippets, feel free to [submit
 | traceback    | ``import traceback; traceback.print_exc();``      |
 | utfc         | ``coding: utf-8 ``                                |
 
-
-### 1.2.0
-
-Change docstrings to class definitions for flake8 compatibility
-Updated model / form fields to utilize fields in Django 1.11
-Clean up repo from initial sublime port
-
-### 1.1.6
-
-Fix admin inline spacing
-Change from double quotes to single quotes in template tags
-Updated logo
-
-### 1.0.0
-
-Initial port of Djaneiro for Visual Studio Code
-
-
 ##TODO: 
 
 - Add Django version number when field was deprecated to the snippet description. Some of these field types are no longer used.
 - Update view snippets
+- Django template linking
